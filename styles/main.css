@@ -1,3 +1,22 @@
 body {
+  background-color: #3262a8;
+}
+
+header {
   background-color: black;
+
+  color: white;
+  font-family: 'Special Elite', serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+nav {
+  background-color: black;
+  
+  color: white;
+}
+
+nav ul li {
+  float: left;
 }
